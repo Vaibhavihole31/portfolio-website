@@ -9,6 +9,18 @@
     font-size="20px"
 }
 
-.logo-class{
-    margin-left: 70px;
+.ico-social-container{
+  background-color:"skyblue"; 
+  padding:5px;
+  border-radius:50%;
+  box-shadow:0px 3px 5px #000;
+  display:block;
+  height:40px;
+  width:40px;
+  
+}
+.ico-social{
+  height:30px;
+  width:30px;
+  
 }
